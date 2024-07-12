@@ -1,6 +1,6 @@
 # README
 
-## thing to do
+## things to do
 | column             | Type        | Options                         |
 | ------------------ | ----------  | --------------------------------|
 | nickname           | string      | null: false                     |
