@@ -1,5 +1,5 @@
 # README
-## things to do
+## thing
 | column             | Type        | Options                         |
 | ------------------ | ----------  | --------------------------------|
 | nickname           | string      | null: false                     |
@@ -16,7 +16,7 @@
 - has_many :purchasing_infos
 
 
-## places
+## place
 | column             | Type        | Options                         |
 | ------------------ | ----------  | ------------------------------- |
 | item_name          | string      | null: false                     |
