@@ -11,7 +11,7 @@
 | first_name_kana    | string      | null: false                     |
 | birth_day          | date        | null: false                     |
 
-### Association
+### Associations
 - has_many :items
 - has_many :purchasing_infos
 
