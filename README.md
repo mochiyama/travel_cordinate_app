@@ -34,7 +34,7 @@
 - has_one :purchasing_info
 
 
-## purchasing_infos
+## purchasing_info
 | column             | Type        | Options                         |
 | ------------------ | ----------  | ------------------------------- |
 | item               | references  | null: false, foreign_key:true   |
@@ -45,7 +45,7 @@
 - has_one :sending_info
 
 
-## sending_infos
+## sending_info
 | column             | Type        | Options                        |
 | ------------------ | ----------  | ------------------------------ |
 | purchasing_info    | references  | null: false, foreign_key:true  |
